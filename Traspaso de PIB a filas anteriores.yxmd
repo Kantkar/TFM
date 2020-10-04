@@ -1,0 +1,367 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.2">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" FileFormat="19" SearchSubDirs="False" RecordLimit="">C:\Users\RU131PU\Desktop\Tesis\Todos los datos (78 observaciones).yxdb</File>
+          <FormatSpecificOptions />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Todos los datos (78 observaciones).yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Periodo" size="254" source="CrossTab:Group:First:" type="V_WString" />
+            <Field name="Producto_interior_bruto_a_precios_de_mercado" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="Impuestos_menos_subvenciones_sobre_los_productos" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="Impuestos_sobre_los_productos" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="Subvenciones_sobre_los_productos" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Agricultura__ganadería__silvicultura_y_pesca__A__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Construcción__F__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Industria__B_E__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Industria__Industria_manufacturera__C__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__G_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__Actividades_artísticas__recreativas_y_otros_servicios__R_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__Actividades_financieras_y_de_seguros__K__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__Actividades_inmobiliarias__L__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__Actividades_profesionales__científicas_y_técnicas_y_otras__M_N__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__Administración_pública__educación_y_sanidad__O_Q__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__Comercio__transporte_y_hostelería__G_I__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="VABpb_Servicios__Información_y_comunicaciones__J__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Oferta.csv" type="V_WString" />
+            <Field name="Adquisiciones_menos_cesiones_de_objetos_valiosos" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Consumo_final_individual_efectivo" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Demanda_externa" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Demanda_nacional" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Exportaciones_de_bienes" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Exportaciones_de_bienes_y_servicios" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Exportaciones_de_servicios" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Exportaciones_de_servicios__Gasto_de_los_hogares_no_residentes_en_el_territorio_económico" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_inmateriales__Productos_de_la_propiedad_intelectual" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales__Construcción" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales__Construcción__Otros_edificios_y_construcciones" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales__Construcción__Viviendas" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales__Maquinaria__bienes_de_equipo_y_sistemas_de_armamento" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales__Maquinaria__bienes_de_equipo_y_sistemas_de_armamento__Material_de_transporte" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales__Maquinaria__bienes_de_equipo_y_sistemas_de_armamento__Otros" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="FBCF__Activos_fijos_materiales_Recursos_biológicos_cultivados" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Formación_bruta_de_capital" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Formación_bruta_de_capital_fijo__FBCF_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_colectivo_de_las_AAPP" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_de_las_AAPP" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_de_las_ISFLSH" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_de_los_hogares" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_de_los_hogares_y_las_ISFLSH" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_individual_de_las_AAPP" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_interior_de_los_hogares" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_interior_de_los_hogares__Bienes_duraderos" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Gasto_en_consumo_final_interior_de_los_hogares__Otros_bienes" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Importaciones_de_bienes" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Importaciones_de_bienes_y_servicios" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Importaciones_de_servicios" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Importaciones_de_servicios__Gasto_de_los_hogares_residentes_en_el_resto_del_mundo" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Variación_de_existencias" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Variación_de_existencias_y_adquisiciones_menos_cesiones_de_objetos_valiosos" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Demanda.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Actividades_artísticas__recreativas_y_otros_servicios__R_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Actividades_financieras_y_de_seguros___K__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Actividades_inmobiliarias__L__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Actividades_profesionales__científicas_y_técnicas_y_otras__M_N__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Administración_pública__educación_y_sanidad___O_Q__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Agricultura__ganadería__silvicultura_y_pesca__A__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Comercio__transporte_y_hostelería___G_I__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Construcción__F__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Industria__B_E__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Industria_manufacturera__C__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Información_y_comunicaciones__J__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Cotizaciones_sociales_a_cargo_de_los_empleadores__Servicios__G_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Excedente_de_explotación_bruto_y_Renta_mixta_bruta" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Impuestos_menos_subvenciones_sobre_la_producción_y_las_importaciones" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Impuestos_sobre_la_producción_y_las_importaciones" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Actividades_artísticas__recreativas_y_otros_servicios___R_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Actividades_financieras_y_de_seguros__K__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Actividades_inmobiliarias__L__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Actividades_profesionales__científicas_y_técnicas_y_otras__M_N__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Administración_pública__educación_y_sanidad__O_Q__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Agricultura__ganadería__silvicultura_y_pesca__A__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Comercio__transporte_y_hostelería__G_I__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Construcción__F__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Industria__B_E__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Industria_manufacturera__C__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Información_y_comunicaciones___J__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Remuneración_de_los_asalariados__Servicios__G_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Subvenciones_sobre_la_producción_y_las_importaciones" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Actividades_artísticas__recreativas_y_otros_servicios__R_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Actividades_financieras_y_de_seguros___K__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Actividades_inmobiliarias__L__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Actividades_profesionales__científicas_y_técnicas_y_otras__M_N__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Administración_pública__educación_y_sanidad__O_Q__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Agricultura__ganadería__silvicultura_y_pesca__A__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Comercio__transporte_y_hostelería___G_I__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Construcción__F__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Industria__B_E__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Industria_manufacturera__C__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Información_y_comunicaciones__J__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Sueldos_y_salarios__Servicios__G_T__CNAE_2009_" size="254" source="File: C:\Users\RU131PU\Desktop\Tesis\PIB pm Rentas.csv" type="V_WString" />
+            <Field name="Avg_Bienes de consumo" source="Summarize: Avg - Bienes de consumo" type="Double" />
+            <Field name="Avg_Mat. Básicos, Industria y Construcción" source="Summarize: Avg - Mat. Básicos, Industria y Construcción" type="Double" />
+            <Field name="Avg_Petróleo y Energía" source="Summarize: Avg - Petróleo y Energía" type="Double" />
+            <Field name="Avg_Servicios de Consumo" source="Summarize: Avg - Servicios de Consumo" type="Double" />
+            <Field name="Avg_Tecnología y Telecomunicaciónes" source="Summarize: Avg - Tecnología y Telecomunicaciónes" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.MultiRowFormula.MultiRowFormula">
+        <Position x="246" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <UpdateField value="False" />
+          <UpdateField_Name>Periodo</UpdateField_Name>
+          <CreateField_Name>PIB</CreateField_Name>
+          <CreateField_Type>Float</CreateField_Type>
+          <CreateField_Size>4</CreateField_Size>
+          <OtherRows>Empty</OtherRows>
+          <NumRows value="1" />
+          <Expression>[Row+1:Producto_interior_bruto_a_precios_de_mercado]</Expression>
+          <GroupByFields />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[Row+1:Producto_interior_bruto_a_precios_de_mercado]</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxMultiRowFormula" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="618" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\RU131PU\Desktop\Engine_9752_fc15dd2442bd4aacb9ca67dd4f02bb7f_\Engine_17912_979ebb28ee234c809194c25656c81b49_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="150" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="Producto_interior_bruto_a_precios_de_mercado" selected="True" type="Float" size="4" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="5">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.RecordID.RecordID">
+        <Position x="342" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <FieldName>RecordID</FieldName>
+          <StartValue>1</StartValue>
+          <FieldType>Int32</FieldType>
+          <FieldSize>6</FieldSize>
+          <Position>0</Position>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxRecordID" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.Filter.Filter">
+        <Position x="438" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Expression>[RecordID] &lt; 78</Expression>
+          <Mode>Simple</Mode>
+          <Simple>
+            <Operator>&lt;</Operator>
+            <Field>RecordID</Field>
+            <Operands>
+              <IgnoreTimeInDateTime>True</IgnoreTimeInDateTime>
+              <DateType>fixed</DateType>
+              <PeriodDate>2020-08-01 19:40:42</PeriodDate>
+              <PeriodType>
+              </PeriodType>
+              <PeriodCount>0</PeriodCount>
+              <Operand>78</Operand>
+              <StartDate>2020-08-01 19:40:42</StartDate>
+              <EndDate>2020-08-01 19:40:42</EndDate>
+            </Operands>
+          </Simple>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>[RecordID] &lt; 78</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxFilter" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="522" y="66" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="RecordID" selected="False" />
+            <SelectField field="Producto_interior_bruto_a_precios_de_mercado" selected="False" />
+            <SelectField field="*Unknown" selected="True" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileOutput.DbFileOutput">
+        <Position x="618" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <File FileFormat="19" MaxRecords="">C:\Users\RU131PU\Desktop\Tesis\Todos los datos (77 observaciones).yxdb</File>
+          <Passwords />
+          <FormatSpecificOptions>
+            <NoSpatialIndex>False</NoSpatialIndex>
+            <SaveSource>True</SaveSource>
+          </FormatSpecificOptions>
+          <MultiFile value="False" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>Todos los datos (77 observaciones).yxdb</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileOutput" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="5" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="4" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="5" Connection="Output" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="6" Connection="True" />
+      <Destination ToolID="7" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="7" Connection="Output" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>Traspaso de PIB a filas anteriores</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+  </Properties>
+</AlteryxDocument>
